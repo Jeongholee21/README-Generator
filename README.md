@@ -10,6 +10,7 @@
 ## A walkthrough video
 <img src="https://github.com/Jeongholee21/README-Generator/blob/main/Develop/READMEvideo.gif?raw=true"/>
 </br>
+
 ### User Story
 
 ```
