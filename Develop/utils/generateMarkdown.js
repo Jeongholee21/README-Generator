@@ -45,7 +45,6 @@ ${renderLicenseBadge(data.license)}
 - [Usage](##Usage)
 - [Credits](##Credits)
 - [License](##License)
-- [Badges](##Badges)
 - [Contact](##Contact)
 
 ## Description

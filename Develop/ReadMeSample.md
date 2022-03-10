@@ -1,6 +1,6 @@
 
   
-# Test Project
+# Professional README.md Generator
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://lbesson.mit-license.org/)
 
 
@@ -15,11 +15,11 @@
 - [Contact](##Contact)
 
 ## Description
-Test node readme file generator
+create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
 
 ## Installation
-node
+npm install
 
 
 ## Usage
@@ -27,7 +27,7 @@ none
 
 
 ## Credits
-kim
+Project1 Team Members
 
 
 ## License
@@ -35,6 +35,6 @@ kim
 
 
 ## Contact
-  For any questions contact GitHub user [jeongho21](https://github.com/jeongho21) or at this email: jeongholee@hotmail.com
+  For any questions contact GitHub user [Jeongholee21](https://github.com/Jeongholee21) or at this email: jeongholee@hotmail.com
 
   
