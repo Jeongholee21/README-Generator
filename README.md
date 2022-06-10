@@ -39,7 +39,6 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
-## Sample ReadMe.md
-https://github.com/Jeongholee21/README-Generator/blob/main/ReadMeSample.md
+## Screenshot
 
 <img src="https://github.com/Jeongholee21/README-Generator/blob/main/Develop/readmesample.png?raw=true"/>
