@@ -6,9 +6,11 @@
 ### create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 </br>
 
-  
+## Download Sample readme file
+[File Name](https://github.com/Jeongholee21/README-Generator/blob/main/Develop/ReadMeSample.md)
+
 ## A walkthrough video
-![](https://github.com/Jeongholee21/budget-tracker/blob/main/public/icons/Screen%20Shot%202022-06-09%20at%2012.20.31%20PM.png)
+![](https://github.com/Jeongholee21/README-Generator/blob/main/Develop/readme.gif)
 
 
 ### User Story
