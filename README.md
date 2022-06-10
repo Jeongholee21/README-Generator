@@ -7,7 +7,7 @@
 </br>
 
 ## Download Sample readme file
-[File Name](https://github.com/Jeongholee21/README-Generator/blob/main/Develop/ReadMeSample.md)
+[ReadMeSample](./Develop/ReadMeSample.md)
 
 ## A walkthrough video
 ![](https://github.com/Jeongholee21/README-Generator/blob/main/Develop/readme.gif)
