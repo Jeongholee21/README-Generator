@@ -1,6 +1,6 @@
 
   
-# Professional README.md Generator
+# readme maker
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://lbesson.mit-license.org/)
 
 
@@ -14,7 +14,7 @@
 - [Contact](##Contact)
 
 ## Description
-Create a command-line application that dynamically generates a README.md file
+make readme.md file
 
 
 ## Installation
@@ -22,11 +22,11 @@ npm install
 
 
 ## Usage
-none
+team 
 
 
 ## Credits
-Project1 Team Members
+team2
 
 
 ## License
@@ -34,6 +34,6 @@ Project1 Team Members
 
 
 ## Contact
-  For any questions contact GitHub user [Jeongholee21](https://github.com/Jeongholee21) or at this email: jeongholee@hotmail.com
+  For any questions contact GitHub user [Lee Test](https://github.com/Lee Test) or at this email: lee@gmail.com
 
   
