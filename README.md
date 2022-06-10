@@ -8,8 +8,8 @@
 
   
 ## A walkthrough video
-<img src="https://github.com/Jeongholee21/README-Generator/blob/main/Develop/READMEvideo.gif?raw=true"/>
-</br>
+![](https://github.com/Jeongholee21/budget-tracker/blob/main/public/icons/Screen%20Shot%202022-06-09%20at%2012.20.31%20PM.png)
+
 
 ### User Story
 
